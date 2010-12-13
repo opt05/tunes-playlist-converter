@@ -3,20 +3,26 @@
 
 = Introduction =
 
-This page will take you through the steps on how to use this script. Guaranteed to work with iTunes 10.1
+This page will take you through the steps on how to use this script. Guaranteed to work with iTunes 10.1 & Windows XP
 
 *NOTE: This guide assumes you already have your music transfered onto your Android device. See [http://ita.sourceforge.net iTunes Agent] for assistance.*
 
 ----
 == The How-To Guide ==
 
-After downloading this script & opening iTunes:
-  # Right-Click on a playlist of your choosing and Left-Click -> _Export_ (saving as a m3u file).
-  # Save the file somewhere, but remember that directory for later (saving in same directory as the script is best).
-  # Rinse & repeat for others if needed.
-  # Place the script in the directory from Step 2 & Double-click it.
+After downloading this script:
+  # Double-click the script.
+  # If prompt, supply directory for 'iTunes Music Playlist.xml' file. (Auto checks Music Folder of current user)
   # After the message box says "Finished!", then drag & drop the new playlist (m3u) files onto your Android device anywhere.
 
 == Notes ==
 
   * Might have to wait for Android to rescan your SDCard in-order-to have then show up.
+----
+=== Older Versions Guide ===
+(v1.0) After downloading this script & opening iTunes:
+  # Right-Click on a playlist of your choosing and Left-Click -> _Export_ (saving as a m3u file).
+  # Save the file somewhere, but remember that directory for later (saving in same directory as the script is best).
+  # Rinse & repeat for others if needed.
+  # Place the script in the directory from Step 2 & Double-click it.
+  # After the message box says "Finished!", then drag & drop the new playlist (m3u) files onto your Android device anywhere.
