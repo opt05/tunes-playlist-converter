@@ -1,5 +1,5 @@
+#summary History of this program, including old changelogs.
 #labels Phase-Requirements,Phase-Design,Phase-QA,Phase-Support
-#History of this program, including old changelogs.
 
 = Brief Introduction =
 
