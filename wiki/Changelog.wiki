@@ -8,8 +8,12 @@ Tunes Playlist Converter is a project written to fill the gap between iTunes and
 
 = Changelog =
 
-===v2.0 Beta 2===
+===v2.0 Beta 3===
 Unreleased
+  * ...
+
+===v2.0 Beta 2===
+2/4/11
   * Fixed encoding problems (UTF-8)
   * Fixed Removing old playlists & music files
 
